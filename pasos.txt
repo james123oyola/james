@@ -1,0 +1,9 @@
+git init =repositorio local
+git remote add origin https://github.com/james123oyola/james.git
+git status: ver mis archivos
+
+git commit -m 'esto salio super'= para el mensaje 
+
+ git remote add origin james123oyola/mi-primer-hola-mundo-chikito :subir repositorio al servidor
+
+git push -u origin master: subir el repositorio
